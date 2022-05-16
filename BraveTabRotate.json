@@ -6,6 +6,11 @@
     "closeExistingTabs": true,
     "websites": [
       {
+        "url": "https://www.spotify.com/",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
         "url": "https://www.thesun.co.uk/",
         "duration": 8,
         "tabReloadIntervalSeconds": 15
