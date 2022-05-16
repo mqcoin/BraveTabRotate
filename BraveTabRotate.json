@@ -51,6 +51,11 @@
         "tabReloadIntervalSeconds": 15
       },
       {
+        "url": "https://www.pinknews.co.uk/",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
         "url": "https://www.youtube.com/",
         "duration": 8,
         "tabReloadIntervalSeconds": 15
