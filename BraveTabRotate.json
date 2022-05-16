@@ -34,6 +34,21 @@
         "url": "https://www.wix.com/",
         "duration": 8,
         "tabReloadIntervalSeconds": 15
+      },
+      {
+        "url": "https://www.bbc.co.uk/",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
+        "url": "https://www.msn.com/",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
+      },
+      {
+        "url": "https://www.youtube.com/",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
       }
     ]
   }
