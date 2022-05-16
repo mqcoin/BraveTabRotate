@@ -29,6 +29,11 @@
         "url": "https://www.asos.com/",
         "duration": 8,
         "tabReloadIntervalSeconds": 15
+       },    
+      {
+        "url": "https://www.wix.com/",
+        "duration": 8,
+        "tabReloadIntervalSeconds": 15
       }
     ]
   }
